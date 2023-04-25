@@ -1,10 +1,12 @@
 ## Welcome to my GitHub page 👋
 
-I am an undergraduate student studying computer science and this is my GitHub page where I showcase my projects and skills in software development. 
+I am an undergraduate student studying computer science and this is my GitHub page where I showcase my projects and skills. 
 
 ### About Me
 
-In addition to studying computer science, I am passionate about exploring new technologies and building projects that solve real-world problems. Some of my interests include [insert your interests here].
+In addition to studying computer science, I am passionate about exploring new technologies and building projects. My intrests include deep learning and computer vision.
+
+I finish my bachelor's degree May 2024, and am intrested in joing a graduat program for the fall of 2024/2025.
 
 ### Projects
 
@@ -25,20 +27,3 @@ Here are some of the projects I've worked on:
 You can reach me via email at [Your email address] or connect with me on [Insert social media platforms that you are active on]. I am always open to collaborations and new opportunities.
 
 Thank you for visiting my GitHub page!
-
-Thank you for visiting my GitHub page!
-
-<!--
-**KhalidAlnujaidi/KhalidAlnujaidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
