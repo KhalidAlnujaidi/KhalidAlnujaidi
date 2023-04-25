@@ -1,6 +1,6 @@
 ## Welcome to my GitHub page 👋
 
-I am an undergraduate student studying computer science and this is my GitHub page where I showcase my projects and skills. 
+I am an undergraduate student studying computer science at PMU and this is my GitHub page where I showcase my projects and skills. 
 
 ### About Me
 
@@ -22,8 +22,5 @@ Here are some of the projects I've worked on:
 - Tools and frameworks: [List the tools and frameworks you are familiar with]
 - Other skills: [List any other skills that you have, such as project management, UI/UX design, etc.]
 
-### Contact Me
-
-You can reach me via email at [Your email address] or connect with me on [Insert social media platforms that you are active on]. I am always open to collaborations and new opportunities.
 
 Thank you for visiting my GitHub page!
