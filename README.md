@@ -9,3 +9,5 @@ I finish my bachelor's degree May 2024, and am intrested in joing a graduate pro
 
 
 Thank you for visiting my GitHub page!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhalidAlnujaidi)](https://github.com/anuraghazra/github-readme-stats)
